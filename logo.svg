@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <g
+       id="g9470"
+       transform="translate(6.2779778,46.865366)">
+      <g
+         id="g2026"
+         transform="rotate(-2.8594386,97.159774,88.939247)">
+        <g
+           id="g1908">
+          <path
+             style="fill:#000000;stroke:#ffffff;stroke-width:0.396875;paint-order:stroke fill markers"
+             d="m 39.742217,104.10185 c -0.100238,-1.11671 28.844675,-24.608231 57.89488,-23.349359 29.050203,1.258873 58.204283,27.266829 58.304233,28.383299 0.1,1.11646 -28.85311,-22.65765 -57.90361,-23.916276 C 68.987219,83.960887 39.842454,105.21855 39.742217,104.10185 Z"
+             id="path1748" />
+          <path
+             style="fill:#000000;stroke:#000000;stroke-width:0.399925;stroke-opacity:1;paint-order:stroke fill markers"
+             d="m 40.313096,103.48285 115.041784,4.96738 0.31248,1.19962 -115.772421,-5.05895 z"
+             id="path1904" />
+        </g>
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:0.396875;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 101.30689,80.422825 c -0.39867,-1.853933 -0.43575,-4.208349 0.76019,-5.163237 1.19595,-0.954888 3.62453,-0.509956 5.8028,-0.732489 2.17826,-0.222533 4.10628,-1.112388 5.14441,-2.669546 1.03813,-1.557157 1.18643,-3.781802 0.14568,-5.555863 -1.04074,-1.774061 -3.27076,-3.097365 -5.9405,-3.468263 -2.66974,-0.370898 -5.77882,0.210874 -7.481837,1.243466 -1.703019,1.032593 -1.999639,2.51569 -1.851141,3.405547 0.148498,0.889856 0.741738,1.186476 1.186495,0.750809 0.444757,-0.435667 0.741367,-1.603581 2.150513,-2.271103 1.40915,-0.667522 3.93042,-0.834371 5.80291,-0.62108 1.87249,0.213291 3.09602,0.806517 3.80966,1.779911 0.71363,0.973394 0.91755,2.326691 0.23167,3.142261 -0.68587,0.815569 -2.26166,1.09365 -3.79114,1.306858 -1.52948,0.213207 -3.01257,0.361515 -4.42156,0.509828 -1.40898,0.148313 -2.74377,0.296623 -3.411294,1.038345 -0.667521,0.741721 -0.667521,2.076509 -0.667521,3.411336 0,1.334827 0,2.669615 0,3.707811 0,1.038196 0,1.779744 0.741738,2.521263 0.741737,0.741518 2.224827,1.483065 2.586267,1.177235 0.36143,-0.305829 -0.39866,-1.659156 -0.79734,-3.513089 z"
+           id="path2016" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:13.6745px;font-family:FALSE;-inkscape-font-specification:FALSE;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.870165;paint-order:stroke fill markers"
+         x="112.856"
+         y="115.1726"
+         id="text956"
+         transform="matrix(0.8674297,0.00165309,0.00200959,1.152835,0,0)"><tspan
+           style="font-size:13.6745px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.870165"
+           x="112.856"
+           y="115.1726"
+           id="tspan2134">Bazar <tspan
+   style="fill:#ff0808;fill-opacity:1;stroke:none;stroke-width:0.870165"
+   id="tspan9331">da</tspan> zete</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.0421;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect7145"
+         width="102.39063"
+         height="28.530928"
+         x="47.580914"
+         y="112.09692"
+         ry="4.2350597" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.097;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect7147"
+         width="8.6762905"
+         height="12.013325"
+         x="53.338543"
+         y="103.67054"
+         ry="0.88987589" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.097;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect8603"
+         width="8.6762905"
+         height="12.013325"
+         x="134.59373"
+         y="102.78066"
+         ry="0.88987589" />
+    </g>
+  </g>
+</svg>

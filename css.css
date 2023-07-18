@@ -1,0 +1,186 @@
+:root{
+  --primary: #026E81;
+  --secondary: #00ABBD;
+  /* tertiary não é um padrão do Bootstrap, mas pode ser adicionado! */
+  --tertiary: #72F2EB;
+  --success: #0099DD;
+  --info: #A1C7E0;
+  --warning: #FF9933;
+  --danger: #E3371E;
+}
+
+html,body {
+  position: relative;
+  height: 100%;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+body {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+/*navbar*/
+
+.collapse ul li a{
+  color: #252525;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.collapse ul li a:hover{
+  color: #007aff;
+}
+
+/*Botão whats*/
+.whats{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:3%;
+  right:3%;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:100%;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 1px 1px 2px #888;
+  z-index:1000;
+ 
+}
+
+/*slide*/
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-button-next,.swiper-button-prev{
+  color: white;
+  padding-left: 5%;
+  padding-right: 5%;
+  
+}
+
+.swiper-pagination-bullet{
+  background-color: #ffffff;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active{
+  background-color: #000000;
+}
+
+/*categorias*/
+.font_categorias{
+    margin-top: 3%;
+    margin-bottom: 2%;
+    font-size: 30px; 
+    font-family: 'Maven Pro', sans-serif;  
+    display: flex; 
+    align-items: center;
+    margin-left: 9%;
+}
+@media(max-width: 600px) {
+  .font_categorias {
+   font-size: 20px;
+  }
+  .categorias a{
+    font-size: 5px;
+  }
+  .font_frete{
+    font-size: 20px;
+ }}
+
+.categorias{
+    margin: 2%;
+    padding: 2%;
+    display: flex; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    background-color: #ffffff;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 15px;  
+}
+
+.categorias a{
+  display: flex; 
+  justify-content: space-evenly; 
+  align-items: center; 
+    height: 30%;
+    width: 8%;
+    padding: 2%;
+    border-radius: 5%;
+    background-color: #ffffff;
+    border: 1px solid #a1a1a1;
+    text-decoration: none;
+    list-style: none;
+    color: #a1a1a1;
+}
+.categorias a:hover{
+  background-color: #007aff;
+  box-shadow: none;
+  transition: 0.2s all linear;
+  color: white;
+  border: none;
+}
+/*frete*/
+.font_frete{
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 30px;
+}
+.frete{
+  background-color: #ecf5ff;
+  text-align: center;
+  padding: 2%;
+}
+/*rodapé*/
+.footer{
+    background-color: #252525;
+    height: 25%;
+    color: #eaebf1;
+    display: flex; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 2%;
+}
+
+.redes{
+  background-color: #252525;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  padding-bottom: 2%;
+}
+.redes i:hover{
+  cursor: pointer;
+}
+
+.service{
+  border: 2px solid #a1a1a1;
+  margin-top: 3%;
+  margin-bottom: 2%;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+.service i:hover{
+  cursor: pointer;
+}
